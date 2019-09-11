@@ -181,7 +181,7 @@ class Ui_MainWindow(object):
             mode = "MHD Files (*.mhd)"
         
         # We display the file explorer only showing the kind of files selected
-        file_name,_ = QFileDialog.getOpenFileName(None,"Archivos", "C:/Users/Fabian/Documents/Viewer/Files/Data",mode, options=options)   
+        file_name,_ = QFileDialog.getOpenFileName(None,"Archivos", "../../Data",mode, options=options)   
           
         # If the patch of the file it's valid
         if file_name:
