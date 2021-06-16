@@ -1,7 +1,7 @@
 This project contains the implementation of a 3D Ultrasound visualizer using Python, QT and VTK
 
-# Cardiac
-This system has the basic user interface to assisst medical staff in the visualisation and analysis of cardiac functions.
+# US_VIEWER
+This system has the basic user interface to assisst medical staff in the visualisation and analysis of 3D and 4D ultrasound images.
 
 Implemented Tools:
 
