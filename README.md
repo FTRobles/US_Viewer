@@ -7,7 +7,8 @@ Implemented Tools:
 
 - Open 3D and 4D images (DICOM, VOL, MHD)
 - 4 Interactive Views: 2D sagital, 2D axial, 2D coronal, and 3D
-- 
+- Interactive 3D Slicer for 2D visualization
+- Ineractive tools for 3D rendering
 
 ## Installation
 
